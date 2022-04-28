@@ -72,64 +72,9 @@ From 127 to 226 are `user`.
 All created accounts have a unified password `123456`.  
 
 
-`Step 7`:    
-&nbsp; &nbsp; &nbsp; &nbsp; To create a new admin account use a command  
-
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ` $ php artisan create:admin --email=admin2@admin.com --password=123456 `.  
-
-`Step 8`:    
-&nbsp; &nbsp; &nbsp; &nbsp; Run schedule use a command `php artisan schedule:work`   
-&nbsp; &nbsp; &nbsp; &nbsp; then use a command `php artisan notify:users-not-logged-in-for-month`
 
 
 
 
 
 
-## Contributors
-<table>
-   <tr>
-    <td>
-      <img src="https://avatars.githubusercontent.com/u/93389016?v=4"></img>
-    </td>
-    <td>
-      <img src="https://avatars.githubusercontent.com/u/97949259?v=4"></img>
-    </td>
-    <td>
-      <img src="https://avatars.githubusercontent.com/u/97365136?v=4"></img>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/MohamedAlabasy"> Mohamed Alabasy </a>
-    </td>
-      <td>
-      <a href="https://github.com/dina810"> Dina Reda </a>
-    </td>
-     <td>
-      <a href="https://github.com/MaiiEmad"> Mai Emad </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://avatars.githubusercontent.com/u/97946354?v=4"></img>
-    </td>
-    <td>
-      <img src="https://avatars.githubusercontent.com/u/95267859?v=4"></img>
-    </td>
-    <td>
-      <img src="https://avatars.githubusercontent.com/u/58011505?v=4"></img>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Hala-salah77"> Hala Salah </a>
-    </td>
-      <td>
-      <a href="https://github.com/gehad300"> Gehad </a>
-    </td>
-     <td>
-      <a href="https://github.com/MahmoudNehro"> Mahmoud Nehro </a>
-    </td>
-  </tr>
-</table>
