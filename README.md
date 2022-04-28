@@ -45,7 +45,7 @@ The Simple Gym Management System In Laravel/MySQL is a mini project for keeping 
 `Step 3` :  
 &nbsp; &nbsp; &nbsp; &nbsp; Create database call `gym` .  
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  `To help you understand the project databases, see the following ERF`
+
 
 
 
